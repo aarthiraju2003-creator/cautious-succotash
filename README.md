@@ -1,2 +1,2 @@
-# aarthiraju/2003
+# Advanced Time Series Forecasting With Deep Learning and Explainability
 This project focuses on designing, implementing, and interpreting an advanced deep learning model for multi-step time series forecasting, emphasizing both high predictive accuracy and model explainability. A complex multivariate time series dataset (with seasonality, trend, and noise) is generated or acquired. 
